@@ -1,7 +1,7 @@
 # Hakuna Matata
 Hakuna Matata, also known as HEUR:Constructor.MSIL.Ransom.gen is an ransomware builder.  
 It encrypts files with AES-CBC, the source has leaked for free.  
-Some checkboxes were removed because they are fake.
+Some checkboxes were removed because they are fake. 🙄
 
 Thanks to me, you no longer need to pay this guy to get the source. 🤣
 
